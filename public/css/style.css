@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.parking-status {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.ticket-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.ticket {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+
+.increase-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 10px;
+}
